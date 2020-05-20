@@ -24,6 +24,7 @@
 		<Item Name="HP4284A.lvclass" Type="LVClass" URL="../LCRControl/HP4284A/HP4284A.lvclass"/>
 		<Item Name="InstrControl.lvclass" Type="LVClass" URL="../InstrControl.lvclass"/>
 		<Item Name="KE236.lvclass" Type="LVClass" URL="../SupplyControl/Keithley 236 &amp; 237/KE236.lvclass"/>
+		<Item Name="KE237.lvclass" Type="LVClass" URL="../SupplyControl/Keithley237/KE237.lvclass"/>
 		<Item Name="KE487.lvclass" Type="LVClass" URL="../SupplyControl/Keithley 487/KE487.lvclass"/>
 		<Item Name="KE2000.lvclass" Type="LVClass" URL="../MultimeterControl/Keithley 2000/KE2000.lvclass"/>
 		<Item Name="KE2410.lvclass" Type="LVClass" URL="../SupplyControl/Keithley 2410/KE2410.lvclass"/>
