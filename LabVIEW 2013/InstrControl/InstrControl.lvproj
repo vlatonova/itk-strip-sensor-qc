@@ -58,6 +58,7 @@
 			<Item Name="DDE Master Control.vi" Type="VI" URL="../additional LV libraries/dde.llb/DDE Master Control.vi"/>
 			<Item Name="DDE Open Conversation.vi" Type="VI" URL="../additional LV libraries/dde.llb/DDE Open Conversation.vi"/>
 			<Item Name="DDE Request.vi" Type="VI" URL="../additional LV libraries/dde.llb/DDE Request.vi"/>
+			<Item Name="Keithley 3700 Series.lvlib" Type="Library" URL="../additional LV libraries/Keithley 3706/Keithley 3700 Series.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
