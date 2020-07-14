@@ -1,6 +1,6 @@
 Labview configuration at Carleton
 ==================================
-INSTITUTE%CU
+INSTITUTE%PRG
 - this institute
 MANUFACTURERS%Hamamatsu
 - list of sensor production manufacturers
