@@ -8,9 +8,9 @@ DEVICES%ATLAS07,ATLAS12,ATLAS12EC,ATLAS17LS,ATLAS18SS,ATLAS18R0,ATLAS18R1,ATLAS1
 - list of different device types
 SERIALNUMBERS%C:\Users\veral\Documents\christoph\LabVIEW 2013\general_VIs\database\components.csv
 - lookup table for serial numbers
-DATADIR%C:\Users\veral\Documents\cambridge-data-test\data
+DATADIR%C:\Users\itkstriplabview3\Documents\data
 - all the data directores
-BAKDIR%C:\Users\veral\Documents\cambridge-data-test\backup
+BAKDIR%C:\Users\itkstriplabview3\Documents\backup
 - screenshot and temporary data file directory
 USER%Vera,Marcela,Iveta
 - list of known users
