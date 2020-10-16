@@ -1,6 +1,6 @@
 Default IV measurement configurations
 ==================================
-SUPPLY%Keithley 2410
+SUPPLY%Keithley 237
 - default supply; Only really necessary for tests without user input.
 INITIALV%0
 - initial bias voltage of IV scan, QC doc: 0

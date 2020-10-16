@@ -1,8 +1,8 @@
 Default CV measurement configurations
 ==================================
-SUPPLY%Keithley 2410
+SUPPLY%Keithley 237
 - default supply; Only really necessary for tests without user input.
-LCR%WayneKerr 6440B
+LCR%HP 4284A
 - default LCR meter; Only really necessary for tests without user input.
 INITIALV%0
 - initial bias voltage of CV scan, QC doc: 0
@@ -12,7 +12,7 @@ STEPSIZE%10
 - size of voltage steps during CV scan, QC doc: 10
 STEPDELAY%10
 - interval between voltage steps during CV scan in seconds, QC doc: 3x RC time of network
-ACFREQUENCY%500
+ACFREQUENCY%1000
 - default AC frequency for CV scans in Hz, TDR: 500-5000
 RCCONFIG%serial
 - RC configuration of LCR meter for CV scan, serial
