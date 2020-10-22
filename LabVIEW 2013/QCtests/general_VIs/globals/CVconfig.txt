@@ -26,5 +26,5 @@ RAMPDOWNDELAY%1
 - ramp down interval in seconds
 TREADOUT%Arduino
 - Arduino or not? Only really necessary for tests without user input.
-VDEPLETION%-300
+VDEPLETION%-350
 - Maximum depletion voltage allowed in specs in volts
