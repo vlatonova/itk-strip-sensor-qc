@@ -12,7 +12,7 @@ DATADIR%C:\Users\itkstriplabview3\Documents\data
 - all the data directores
 BAKDIR%C:\Users\itkstriplabview3\Documents\backup
 - screenshot and temporary data file directory
-USER%Vera,Marcela,Iveta
+USER%Vera,Marcela,Iveta,Anicka
 - list of known users
 IVRSERIES%1.0
 - series resistor during IV in MOhm
