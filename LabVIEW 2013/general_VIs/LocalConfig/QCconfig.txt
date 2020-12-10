@@ -6,7 +6,7 @@ MANUFACTURERS%Hamamatsu
 - list of sensor production manufacturers
 DEVICES%ATLAS07,ATLAS12,ATLAS12EC,ATLAS17LS,ATLAS18SS,ATLAS18R0,ATLAS18R1,ATLAS18R2,ATLAS18R3,ATLAS18R4,ATLAS18R5,HALFMOON
 - list of different device types
-SERIALNUMBERS%C:\Users\itkstriplabview3\Documents\itk-strip-sensor-qc\LabVIEW 2013\QCtests\general_VIs\database\components.csv
+SERIALNUMBERS%C:\Users\itkstriplabview3\Documents\itk-strip-sensor-qc\LabVIEW 2013\general_VIs\database\components.csv
 - lookup table for serial numbers
 DATADIR%C:\Users\itkstriplabview3\Documents\data
 - all the data directores
