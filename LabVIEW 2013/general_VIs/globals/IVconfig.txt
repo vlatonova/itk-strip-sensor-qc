@@ -17,7 +17,7 @@ RAMPDOWNSTEPS%10
 RAMPDOWNDELAY%1
 - ramp down interval in seconds
 TREADOUT%Arduino
-- Arduino or not? Only really necessary for tests without user input.
+- Arduino, PT100 or not? Only really necessary for tests without user input.
 VBREAKDOWN%-500
 - Minimum breakdown voltage in volts allowed in specs
 HOLDSTEPS%3
